@@ -1,0 +1,82 @@
+{
+    "status": "0",
+    "resultMessage": "消息",
+    "data": {
+        "testId": "test1",
+        "testTtile": "疼痛典型病例分析",
+        "case": "case.rtf",
+        "questions": [
+                      {
+                      "questionId": 1,
+                      "question": "1. 此患者诊断是？",
+                      "isRadio": "true",
+                      "correctAnswerId": "B",
+                      "refGuidUrl": "q1_ref.html",
+                      "answers": [
+                                  {
+                                  "answerId": "A",
+                                  "answerTitle": "A. 慢性期"
+                                  },
+                                  {
+                                  "answerId": "B",
+                                  "answerTitle": "B. 加速期"
+                                  },
+                                  {
+                                  "answerId": "C",
+                                  "answerTitle": "C. 急变期"
+                                  }
+                                  ]
+                      },
+                      {
+                      "questionId": 2,
+                      "question": "2. CML诊断标准是什么？",
+                      "isRadio": "true",
+                      "correctAnswerId": "A",
+                      "refGuidUrl": "q2_ref.html",
+                      "answers": [
+                                  {
+                                  "answerId": "A",
+                                  "answerTitle": "A. 典型的临床表现"
+                                  },
+                                  {
+                                  "answerId": "B",
+                                  "answerTitle": "B. Ph染色体和（或）BCR-ABL融合基因阳性"
+                                  },
+                                  {
+                                  "answerId": "C",
+                                  "answerTitle": "C. T3151基因状况"
+                                  },
+                                  {
+                                  "answerId": "D",
+                                  "answerTitle": "D. 其他治疗失败"
+                                  }
+                                  ]
+                      },
+                      {
+                      "questionId": 3,
+                      "question": "3. 此期患者治疗方案是什么?",
+                      "isRadio": "true",
+                      "correctAnswerId": "10",
+                      "refGuidUrl": "q3_ref.html",
+                      "answers": [
+                                  {
+                                  "answerId": "7",
+                                  "answerTitle": "A. TIK治疗"
+                                  },
+                                  {
+                                  "answerId": "8",
+                                  "answerTitle": "B. 二代TKI治疗"
+                                  },
+                                  {
+                                  "answerId": "9",
+                                  "answerTitle": "C. allo-HSCT治疗"
+                                  },
+                                  {
+                                  "answerId": "10",
+                                  "answerTitle": "D. 以上皆不对"
+                                  }
+                                  ]
+                      }
+                      ]
+    }
+}

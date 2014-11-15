@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6DD790E-83EA-41A6-8A01-341B5C486230</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HisGuidline</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>144FA056-D0C2-4725-84BD-19DFD48B408F</key>
+		<string>http://www.56366.com:2433/svn/p4p/2013_11_%E5%8C%BB%E5%AD%A6%E6%8C%87%E5%8D%97%E9%92%88</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>代码/iPhone/HisGuidline.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>144FA056-D0C2-4725-84BD-19DFD48B408F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>144FA056-D0C2-4725-84BD-19DFD48B408F</key>
+		<string>http://www.56366.com:2433/svn/p4p</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.56366.com:2433/svn/p4p/2013_11_%E5%8C%BB%E5%AD%A6%E6%8C%87%E5%8D%97%E9%92%88/%E4%BB%A3%E7%A0%81/iPhone/HisGuidline.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>144FA056-D0C2-4725-84BD-19DFD48B408F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>144FA056-D0C2-4725-84BD-19DFD48B408F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2013_11_医学指南针</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+			"status":"0",
+			"resultMessage":"消息",
+			"data":{
+					"explainId":"1",
+					"explainName":"“噬血细胞性淋巴组织细胞增生治疗建议解读",
+					"publicTM":"1380103396252",
+					"PPTs":[
+                            {"pptId":1,"pptName":"2011中国慢性髓性白血病（CML）诊疗指南更新","pptUrls":[
+                                                                      {"pptTitle":"2011中国慢性髓性白血病（CML）诊疗指南更新","fileName":"01.jpg"},
+                                                                      {"pptTitle":"","fileName":"02.jpg"},
+                                                                      {"pptTitle":"","fileName":"03.jpg"},
+                                                                      {"pptTitle":"","fileName":"04.jpg"},
+                                                                      {"pptTitle":"","fileName":"05.jpg"},
+                                                                      {"pptTitle":"","fileName":"06.jpg"},
+                                                                      {"pptTitle":"","fileName":"07.jpg"},
+                                                                      {"pptTitle":"","fileName":"08.jpg"},
+                                                                      {"pptTitle":"","fileName":"09.jpg"},
+                                                                      {"pptTitle":"","fileName":"10.jpg"}
+                                                                      ]}
+					],
+					"videos":[
+						{"videoId":1,"videoName":"天津医科大学总医院神经外科杨学军教授在美国应邀参加胶质瘤病例","videoUrl":"s1.html"}
+					],
+					"topics":[
+						{"topicId":1,"topicSubject":"关于解读的话题一","createTM":"1380103396252"},
+						{"topicId":1,"topicSubject":"关于解读的话题二","createTM":"1380103396252"}
+					]
+				}
+}

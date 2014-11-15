@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>p_Title</key>
+		<string>修改密码</string>
+		<key>p_Type</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>p_Title</key>
+		<string>原密码</string>
+		<key>p_Type</key>
+		<string>6</string>
+		<key>p_PostName</key>
+		<string>oldPass</string>
+	</dict>
+	<dict>
+		<key>p_Title</key>
+		<string>新密码</string>
+		<key>p_Type</key>
+		<string>6</string>
+		<key>p_PostName</key>
+		<string>newPass</string>
+	</dict>
+	<dict>
+		<key>p_Title</key>
+		<string>重复密码</string>
+		<key>p_Type</key>
+		<string>6</string>
+		<key>p_PostName</key>
+		<string>newPass1</string>
+	</dict>
+	<dict>
+		<key>p_Title</key>
+		<string></string>
+		<key>p_Type</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>p_Title</key>
+		<string>确定</string>
+		<key>p_Type</key>
+		<string>99</string>
+	</dict>
+</array>
+</plist>

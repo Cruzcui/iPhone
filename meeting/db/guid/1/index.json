@@ -1,0 +1,148 @@
+{
+    "status": "0",
+    "resultMessage": "消息",
+    "data": {
+        "guidid": "1",
+        "guidname": "中国慢性髓性白血病诊断与治疗指南(2013年版)",
+        "writer": "中华医学会血液学分会",
+        "publicTM": "1380103396252",
+        "sections": [
+                     {
+                     "sectionName": "流行病学",
+                     "sectionUrl": "s1.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "CML治疗目标",
+                     "sectionUrl": "s2.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "CML诊断分期",
+                     "sectionUrl": "s3.html",
+                     "childSection": [
+                                      {
+                                      "sectionName": "诊断标准",
+                                      "sectionUrl": "s3_1.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "慢性期",
+                                      "sectionUrl": "s3_2.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "加速期",
+                                      "sectionUrl": "s3_3.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "急变期",
+                                      "sectionUrl": "s3_4.html",
+                                      "childSection": null
+                                      }
+                                      ]
+                     },
+                     {
+                     "sectionName": "CML预后评估",
+                     "sectionUrl": "s4.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "CML慢性期患者初始治疗",
+                     "sectionUrl": "s5.html",
+                     "childSection": [
+                                      {
+                                      "sectionName": "TKI治疗",
+                                      "sectionUrl": "s5_1.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "其他",
+                                      "sectionUrl": "s5_2.html",
+                                      "childSection": null
+                                      }
+                                      ]
+                     },
+                     {
+                     "sectionName": "CML进展期治疗",
+                     "sectionUrl": "s6.html",
+                     "childSection": [
+                                      {
+                                      "sectionName": "加速期治疗",
+                                      "sectionUrl": "s6_1.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "急变期治疗",
+                                      "sectionUrl": "s6_2.html",
+                                      "childSection": null
+                                      }
+                                      ]
+                     },
+                     {
+                     "sectionName": "TKI治疗反应定义",
+                     "sectionUrl": "s7.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "TKI治疗反应监测",
+                     "sectionUrl": "s8.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "第二代TKI选择",
+                     "sectionUrl": "s9.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "Allo-HSCT在CML中应用",
+                     "sectionUrl": "s10.html",
+                     "childSection": [
+                                      {
+                                      "sectionName": "allo-HSCT适应症",
+                                      "sectionUrl": "s10_1.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "供者及移植方案的选择",
+                                      "sectionUrl": "s10_2.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "allo-HSCT后监测",
+                                      "sectionUrl": "s10_3.html",
+                                      "childSection": null
+                                      }
+                                      ]
+                     }
+                     ,
+                     {
+                     "sectionName": "干扰素在CML治疗中的应用",
+                     "sectionUrl": "s11.html",
+                     "childSection": null
+                     },
+                     {
+                     "sectionName": "TKI治疗期间的妊娠管理",
+                     "sectionUrl": "s12.html",
+                     "childSection": [
+                                      {
+                                      "sectionName": "妊娠期间确诊为CML的患者",
+                                      "sectionUrl": "s12_1.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "伊马替尼治疗中女性患者妊娠的处理",
+                                      "sectionUrl": "s12_2.html",
+                                      "childSection": null
+                                      },
+                                      {
+                                      "sectionName": "伊马替尼治疗中男性患者配偶的计划妊娠",
+                                      "sectionUrl": "s12_3.html",
+                                      "childSection": null
+                                      }
+                                      ]
+                     }
+                     ]
+    }
+}
